@@ -1,5 +1,4 @@
-﻿using System;
-using camacho;
+﻿using camacho;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Carlos
